@@ -19,7 +19,9 @@ A standalone head unit for use with Android devices with USB C ports
 
 ## Next steps:
 
-- develop a USB c to usb c Power delivery passthrough circuit, (optional DC power input) and USB 2.0 or 3.1 type A jack
+TODO: Use separate branch for each step.
+
+- develop a USB c to USB c Power delivery passthrough circuit, (optional DC power input) and USB 2.0 or 3.1 type A jack
 - extend this to have an internal USB hub with audio codec and arm cortex M0 chip hanging off of it. (can ARM cortex do USB HID keyboard commands?)
 - figure out how to retrieve media "Now Playing" info via USB and display on screen
 - design case and mount.
@@ -28,4 +30,4 @@ option for external buttons via DB9 connector?
 
 ## Notes
 
-tested usb audio adapter is `TROND Aluminum External USB Audio Adapter Sound Card with 3.5mm Stereo Headphone and Mono Microphone Jacks, C-Media CM100B Chipset, Black`
+tested USB audio adapter is `TROND Aluminum External USB Audio Adapter Sound Card with 3.5mm Stereo Headphone and Mono Microphone Jacks, C-Media CM100B Chipset, Black`
