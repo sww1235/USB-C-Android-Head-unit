@@ -37,4 +37,10 @@ U 5D77F9AF
 F0 "Microprocessor" 50
 F1 "MCU.sch" 50
 $EndSheet
+$Sheet
+S 1750 6150 2200 1200
+U 5D78C153
+F0 "Audio Codec" 50
+F1 "audio.sch" 50
+$EndSheet
 $EndSCHEMATC
